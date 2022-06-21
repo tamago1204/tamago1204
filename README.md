@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=&count_private=true)tamago1204
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tamago1204&count_private=true)
 ## 使用ツール
 
 ## 使用言語
