@@ -1,4 +1,6 @@
 ### Hi there 👋
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tamago1204&show_icons=true&theme=radical)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tamago1204&count_private=true)
 ## 使用ツール
 
