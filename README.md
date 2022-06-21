@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tamago1204&show_icons=true&theme=radical)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tamago1204&count_private=true)
+
 ## 使用ツール
 
 ## 使用言語
@@ -9,6 +9,8 @@
 
 <!--
 **tamago1204/tamago1204** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tamago1204&count_private=true)
 
 Here are some ideas to get you started:
 
