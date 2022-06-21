@@ -1,4 +1,5 @@
 ### Hi there 👋
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?tamago1204)](https://github.com/tamago1204/github-readme-stats)
 
 ## 使用ツール
 
