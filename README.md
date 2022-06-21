@@ -8,7 +8,7 @@
 
 <a href="https://ja.wikipedia.org/wiki/C%2B%2B" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/144px-ISO_C%2B%2B_Logo.svg.png" alt="angular" width="40" height="40"/>
 
-<a href="https://ja.wikipedia.org/wiki/C%2B%2B" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/144px-ISO_C%2B%2B_Logo.svg.png" alt="angular" width="40" height="40"/> </a>
+<href="https://ja.wikipedia.org/wiki/C%E8%A8%80%E8%AA%9E" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/The_C_Programming_Language_logo.svg/144px-The_C_Programming_Language_logo.svg.png" alt="angular" width="40" height="40"/> </a>
 
 <!--
 **tamago1204/tamago1204** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
