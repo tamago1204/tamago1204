@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+## 使用ツール
+
+## 使用言語
+
+
 <!--
 **tamago1204/tamago1204** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
