@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **c++ c# hlsl**
 
-<h3 align="left">Connect with me:</h3>
+<h2 align="left">Connect with me:</h2>
 <p align="left">
 <a href="https://twitter.com/@tamago1204s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@tamago1204s" height="30" width="40" /></a>
 </p>
