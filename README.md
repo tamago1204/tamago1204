@@ -1,4 +1,5 @@
-<h1 align="left">Hi 👋, I'm Naoya Funahashi</h1>
+<h1 align="left">Hi there👋</h1>
+<h3 align="left"> I'm Naoya Funahashi</h3>
 <h3 align="left">A professional student</h3>
 
 <p align="left"><img src="https://media1.giphy.com/media/k0ijJhqrUP4T2EvmJ1/giphy.gif?cid=ecf05e47zp0tzte7ajnf4z3t0og2mou7omtf18a2wtpgn7lb&rid=giphy.gif&ct=gf" width="800" height="600"  /></p>
