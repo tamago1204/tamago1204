@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Naoya Funahashi</h1>
-<h3 align="center">A professional student</h3>
+<h1 align="left">Hi 👋, I'm Naoya Funahashi</h1>
+<h3 align="left">A professional student</h3>
 
 - 🌱 I’m currently learning **c++ c# hlsl**
 
