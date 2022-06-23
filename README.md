@@ -11,7 +11,9 @@
 <a href="https://twitter.com/@tamago1204s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@tamago1204s" height="30" width="40" /></a>
 </p>
 
-<h2 align ="left"> 🔥   My Stats :</h2>
+<h1 align="left"> 🔥 My Stats </h1>
+ 
+ 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tamago1204&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tamago1204&count_private=true&show_icons=true&theme=radical)
