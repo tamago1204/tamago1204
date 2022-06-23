@@ -8,7 +8,7 @@
 <a href="https://twitter.com/@tamago1204s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@tamago1204s" height="30" width="40" /></a>
 </p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tamago1204&show_icons=true&theme=radical)
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tamago1204&count_private=true&show_icons=true&theme=radical)
 
@@ -18,7 +18,7 @@
 <!--
 **tamago1204/tamago1204** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tamago1204&show_icons=true&theme=radical)
 
 
 https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/144px-ISO_C%2B%2B_Logo.svg.png
