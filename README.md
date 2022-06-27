@@ -14,6 +14,9 @@
 <a href="https://twitter.com/@tamago1204s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@tamago1204s" height="30" width="40" /></a>
 </p>
 
+
+https://twitter.com/@tamago1204s
+
 <h2 align="left"> 🔥 My Stats </h2>
  
  
