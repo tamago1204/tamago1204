@@ -15,7 +15,7 @@
 </p>
 
 
-https://twitter.com/@tamago1204s
+https://twitter.com/tamago1204s
 
 <h2 align="left"> 🔥 My Stats </h2>
  
