@@ -1,4 +1,7 @@
 <h1 align="left">Hi there👋</h1>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=iampawan&label=Views&color=blue&style=plastic" alt="iampawan" /> </p>
+
 <h3 align="left"> I'm Naoya Funahashi</h3>
 <h3 align="left">A professional student</h3>
 
