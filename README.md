@@ -17,13 +17,6 @@
 
 
 
-<h2 align="left"> 🔥 My Stats </h2>
- 
- 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tamago1204&theme=dark&background=000000)](https://git.io/streak-stats)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tamago1204&count_private=true&show_icons=true&theme=radical)
-
 
 
 <h2 align="left">Languages and Tools:</h2>
@@ -54,4 +47,15 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tamago1204)](https://github.com/tamago1204/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tamago1204&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
+<h2 align="left"> 🔥 My Stats </h2>
+ 
+ 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tamago1204&theme=dark&background=000000)](https://git.io/streak-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tamago1204&count_private=true&show_icons=true&theme=radical)
+
+
+
 -->
