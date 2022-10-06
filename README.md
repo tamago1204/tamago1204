@@ -1,6 +1,5 @@
 <h1 align="left">Hi there👋</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tamago1204&label=Views&color=blue&style=plastic" alt="tamago1204" /> </p>
 
 <h3 align="left"> I'm Naoya Funahashi</h3>
 <h3 align="left">A professional student</h3>
@@ -51,6 +50,7 @@ Here are some ideas to get you started:
 
 <h2 align="left"> 🔥 My Stats </h2>
  
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tamago1204&label=Views&color=blue&style=plastic" alt="tamago1204" /> </p>
  
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tamago1204&theme=dark&background=000000)](https://git.io/streak-stats)
 
